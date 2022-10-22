@@ -37,7 +37,7 @@ libraries locally in our machine.
 
 ## Code
 
-The main code is provided in the `Rossmann_Sales_Prediction_Capstone_Project.ipynb`
+The main code is provided in the `Rossmann_Sales_Prediction.ipynb`
 notebook file. We will also require the two datasets
 `Rossmann Stores Data.zip` which needs to be unzipped 
 to get the actual csv file and `store.csv` to run the
@@ -48,11 +48,11 @@ In a terminal or command window, navigate to the top-level project directory (th
 and run one of the following commands:
 
 ```
-ipython notebook Rossmann_Sales_Prediction_Capstone_Project.ipnyb
+ipython notebook Rossmann_Sales_Prediction.ipnyb
 ```
 or
 ```
-jupyter notebook Rossmann_Sales_Prediction_Capstone_Project.ipnyb
+jupyter notebook Rossmann_Sales_Prediction.ipnyb
 ```
 or open with Jupyter Lab
 ```
