@@ -4,19 +4,7 @@
 
 # Rossmann Store Chain Sales Prediction
 
-Rossmann store chain is one of largest
-drugstore chain of Europe with at
-present more than 56000 employees
-and over 4000 stores. Daily sales at
-these stores can be influenced by many
-factors like is today a state or a school
-holiday or if the store is running some
-kind of promo today and also by
-seasonality and locality of the stores. In this project by looking
-at the features present in the datasets and by analyzing their relation
-and the effect they have on the target variables sales we have built one
-robust ML model that can predict the daily sales at these stores for up to 
-six weeks in advance
+Rossmann store chain is one of Europe's largest drugstore chains with more than 56000 employees and over 4000 stores. Daily sales at these stores can be influenced by many factors, like whether today is a state or a school holiday or if the store is running some kind of promo today and also by seasonality and locality of the stores. In this project, by looking at the features present in the datasets and by analyzing their relation and the effect they have on the target variable sales, I have built one robust ML model that can predict the daily sales at these stores up to six weeks in advance.
 ## Install
 
 This project requires Python and the following Python libraries installed
@@ -106,7 +94,7 @@ Ridge Regression , Decision Tree , Gradient Boost and Random Forest
 
 
 ## 🚀 About Me
-I'm an aspriring data scientist who loves to `deeply` work with data
+'m an aspiring Data Scientist who is adept in analyzing and interpreting large datasets and developing new forecasting models. I have strong attention to detail and a significant ability to work in team environments.
 
 
 ## 🔗 Links
